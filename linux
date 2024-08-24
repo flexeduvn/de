@@ -1,0 +1,9 @@
+pwd
+
+ls -l
+ cd ..
+pwd
+ls -a
+cd osboxes
+pwd
+cd
