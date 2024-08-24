@@ -6,5 +6,23 @@ ls -a
 cd osboxes
 pwd
 cd
+clear
+------------
+pwd
+mkdir THUVIEN
+ls -l
+mkdir BAIHAT
+mkdir TROCHOI
+ls -l
+mkdir THUVIEN/KHTN
+ls -l THUVIEN
+mkdir THUVIEN/KHXH
+ls
+mkdir THUVIEN/KHTN/TOAN
+mkdir THUVIEN/KHTN/LY
+ls THUVIEN/KHTN
+
+
+
 
 
