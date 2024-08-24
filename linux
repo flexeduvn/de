@@ -82,6 +82,12 @@ ls THUVIEN/KHTN/TOAN
 ls THUVIEN/KHTN/LI
 cat THUVIEN/KHTN/LI/Khoahoc.bt
 
+find THUVIEN/KHTN -name *.bt
+find THUVIEN/KHTN -name ??i.bt
+
+grep -i "and you" THUVIEN/KHTN/TOAN/Dai.bt
+
+
 
 
 
