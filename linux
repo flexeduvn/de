@@ -48,6 +48,44 @@ How are you
 
 cat THUVIEN/KHTN/TOAN/Dai.bt
 cat >> THUVIEN/KHTN/TOAN/Dai.bt
+I am fine
+Thank you
+And you
+OK
+(Ctrl D)
+cat THUVIEN/KHTN/TOAN/Dai.bt
+
+cp THUVIEN/KHTN/TOAN/Dai.bt THUVIEN/KHTN/LI
+ls THUVIEN/KHTN/LI
+cat THUVIEN/KHTN/LI/Dai.bt
+
+mv THUVIEN/KHTN/LI/Dai.bt THUVIEN/KHTN/LI/Trochoi.bt
+ls THUVIEN/KHTN/LI
+cat THUVIEN/KHTN/LI/Trochoi.bt
+
+mv THUVIEN/KHTN/LI/Trochoi.bt THUVIEN/KHTN/TOAN
+ls THUVIEN/KHTN/LI
+ls THUVIEN/KHTN/TOAN
+
+cat > THUVIEN/KHTN/TOAN/Hinh.bt
+Information Technology
+IUH
+(Ctrl D)
+ls THUVIEN/KHTN/TOAN
+cat THUVIEN/KHTN/TOAN/Hinh.bt
+
+rm THUVIEN/KHTN/TOAN/Trochoi.bt
+ls THUVIEN/KHTN/TOAN
+
+cat THUVIEN/KHTN/TOAN/Dai.bt THUVIEN/KHTN/TOAN/Hinh.bt > THUVIEN/KHTN/LI/Khoahoc.bt
+ls THUVIEN/KHTN/TOAN
+ls THUVIEN/KHTN/LI
+cat THUVIEN/KHTN/LI/Khoahoc.bt
+
+
+
+
+
 
 
 
