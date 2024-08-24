@@ -1,9 +1,10 @@
 pwd
-
 ls -l
- cd ..
+cd ..
 pwd
 ls -a
 cd osboxes
 pwd
 cd
+
+
