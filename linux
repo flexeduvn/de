@@ -19,7 +19,7 @@ ls -l THUVIEN
 mkdir THUVIEN/KHXH
 ls
 mkdir THUVIEN/KHTN/TOAN
-mkdir THUVIEN/KHTN/LY
+mkdir THUVIEN/KHTN/LI
 ls THUVIEN/KHTN
 
 pwd
@@ -36,6 +36,21 @@ pwd
 ls
 mv THUVIEN/KHXH/TROCHOI THUVIEN/KHXH/DOAN
 ls THUVIEN/KHXH
+
+mv TROCHOI THUVIEN/KHTN/LI
+ls THUVIEN/KHTN/LI
+
+-------------------
+cat > THUVIEN/KHTN/TOAN/Dai.bt
+Hello
+How are you
+(Ctrl D)
+
+cat THUVIEN/KHTN/TOAN/Dai.bt
+cat >> THUVIEN/KHTN/TOAN/Dai.bt
+
+
+
 
 
 
